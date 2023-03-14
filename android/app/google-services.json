@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680929211484",
+    "firebase_url": "https://doctor-92dee-default-rtdb.firebaseio.com",
+    "project_id": "doctor-92dee",
+    "storage_bucket": "doctor-92dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680929211484:android:c01e9308d39324c209e299",
+        "android_client_info": {
+          "package_name": "com.example.doctors_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680929211484-slg92b53vhit7u5kadolvo8js0heam89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIz1qRIN6boXSvyQUerdcNuMpm6iZj-tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680929211484-slg92b53vhit7u5kadolvo8js0heam89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
