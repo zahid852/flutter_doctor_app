@@ -1,16 +1,14 @@
-# doctors_app
+# DoctorZone
 
-A new Flutter project.
+DoctorZone is an app where admin can add disease categories and doctor profile where as patients can make appointments of themselves to doctors and doctors can view their schedules.  
 
-## Getting Started
+## Features 
+- Login/Signup of admin, doctor and patient user
+- Admin can add disease category and category doctor profile
+- Doctor can view his schedules 
+- Patient user can view disease categories, doctor profile and can request for appointment.
+- Search disease categories
+- call (redirect to phone app via phone number) 
+- logout
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
