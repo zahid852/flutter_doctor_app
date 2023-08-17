@@ -1,6 +1,6 @@
 # DoctorZone
 
-DoctorZone app allows administrators to add disease categories and doctor profiles, while enabling patients to schedule appointments with doctors. Doctors can also access their schedules through the app.
+DoctorZone is designed to revolutionize healthcare access by connecting patients with doctors. This app allows administrators to add disease categories and doctor profiles, while enabling patients to schedule appointments with doctors. Doctors can also access their schedules through the app.
 
 ## Features 
 - Login/Signup of admin, doctor and patient user
